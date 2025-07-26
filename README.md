@@ -24,9 +24,9 @@ This project fine-tunes the **DeepSeek-R1 LLM** on a **medical chain-of-thought 
 
 ---
 
-## 🛠️ Setup Instructions
+##   Setup Instructions
 
-### 1. 🔑 Hugging Face API Token
+### 1.  Hugging Face API Token
 
 1. Store your Hugging Face token securely in Google Colab:
 
@@ -36,6 +36,7 @@ hf_token = userdata.get('HF_TOKEN')
 ```
 
 2. Install Unsloth and Dependencies
+   
    ```python
    
 !pip install unsloth
