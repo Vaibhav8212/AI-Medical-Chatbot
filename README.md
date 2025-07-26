@@ -38,10 +38,10 @@ hf_token = userdata.get('HF_TOKEN')
 2. Install Unsloth and Dependencies
    
    ```python
-   
-!pip install unsloth
-!pip install --force-reinstall --no-cache-dir --no-deps git+https://github.com/unslothai/unsloth.git
-```
+   !pip install unsloth
+   !pip install --force-reinstall --no-cache-dir --no-deps git+https://github.com/unslothai/unsloth.git
+   ```
+
 ---
 ## Dataset
 
