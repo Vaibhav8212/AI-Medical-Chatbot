@@ -63,8 +63,11 @@ Split Used: First 500 samples from the train set
    Fine-tune using SFTTrainer and LoRA
 
    Log training with Weights & Biases
+   
+   ---
 
-   Future Scope
+   ## Future Scope
+   
    Expand to multiple languages for global healthcare
 
    Add clinical guideline documents for grounding
@@ -76,6 +79,10 @@ Split Used: First 500 samples from the train set
    Integrate with EHR systems or diagnostic decision support
 
    Use Reinforcement Learning from Human Feedback (RLHF) to improve answer quality
+
+   ---
+
+   
 
 
 
